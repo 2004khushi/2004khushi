@@ -33,21 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2004khushi&show_icons=true&theme=react" alt="stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=2004khushi&theme=react&hide_border=true" alt="streak" height="160" />
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2004khushi&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 - **[iPhone-15-Pro Clone](https://github.com/2004khushi/iPhone-15-pro-clone)**  
   _A 3D interactive Apple iPhone 15 Pro website clone using React, Three.js, and GSAP._
