@@ -34,12 +34,4 @@
 ---
 
 
-### 🌐 Coding Profiles
-<p align="center">
-  <a href="https://leetcode.com/khushiongc10/"><img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode&logoColor=yellow"></a>
-  <a href="https://www.geeksforgeeks.org/user/khusiorm4o/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2f8d46?style=flat-square&logo=GeeksforGeeks&logoColor=white"></a>
-</p>
-
----
-
 ⭐️ _Inspired by curiosity, driven by coffee, powered by code._
