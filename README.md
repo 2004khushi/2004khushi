@@ -13,9 +13,9 @@
 
 ### 👩‍💻 About Me
 - 🎓 B.Tech CSE @ VIT (2022–2026)
-- 🔭 Currently working on: **Full Stack Projects & ML Models**
-- 🌱 Learning: **Next.js, AI/ML, Data Science**
-- 💬 Ask me about: **JavaScript, React, Python, DSA**
+- 🔭 Currently working on: **Learning more and more**
+- 🌱 Learning: **React, Next.js, AI/ML, Data Science**
+- 💬 Ask me about: **JavaScript, React, Python**
 - ⚡ Fun fact: My commits might be dark mode, but my vibes are light mode 😎
 
 ---
@@ -33,20 +33,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- **[iPhone-15-Pro Clone](https://github.com/2004khushi/iPhone-15-pro-clone)**  
-  _A 3D interactive Apple iPhone 15 Pro website clone using React, Three.js, and GSAP._
-  
-- **[Gochi Game](https://github.com/2004khushi/Gochi_Game)**  
-  _A fun card game built with C++, making math challenges paperless._
-
-- **[Admin Dashboard](https://github.com/2004khushi/admin-dashboard)**  
-  _Travel agency dashboard using TypeScript & modern UI libraries._
-
-- **[Vocal Sentiment Analyzer](https://github.com/2004khushi/Vocal-Sentiment-Analyzer_final)**  
-  _Classifies emotions from voice using LSTM and RNN models._
-
----
 
 ### 🌐 Coding Profiles
 <p align="center">
